@@ -2,4 +2,4 @@
 
 ## Tipos de archivos
     
--htm
+- html
